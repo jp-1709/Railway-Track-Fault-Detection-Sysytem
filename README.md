@@ -1,1 +1,1 @@
-# Railway-Track-Fault-Detection-Sysytem
+# Railway-Track-Fault-Detection-System
